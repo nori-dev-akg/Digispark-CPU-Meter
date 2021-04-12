@@ -3,19 +3,19 @@ USB-HID-Device CPU meter indicator
 
 <image src="./img/IMG_1914.png" width="30%"/>
 
-NotePC
+NotePC<br>
 <image src="./img/IMG_1936.png" width="30%"/> 
 
-RaspberryPi
+RaspberryPi<br>
 <image src="./img/IMG_1958.png" width="30%"/> 
 
 # Directories & Files
-+DigiCPUMeter ... Arduino Program Files
-+CPUMeter ... Windows Program Files
-+CPUMeter.RP ... RaspberryPi Program Files
-+img ... Markdown image files
--LICENSE ... License text
--README.md ... this file
++DigiCPUMeter ... Arduino Program Files<br>
++CPUMeter ... Windows Program Files<br>
++CPUMeter.RP ... RaspberryPi Program Files<br>
++img ... Markdown image files<br>
+-LICENSE ... License text<br>
+-README.md ... this file<br>
 
 ## Circuit diagram
 <image src="./img/circuit.png" width="30%"/> 
