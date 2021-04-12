@@ -1,6 +1,0 @@
-{
-    "board": "digistump:avr:digispark-tiny",
-    "sketch": "Digispark.ino",
-    "programmer": "digistump:micronucleusprog",
-    "port": "COM7"
-}
