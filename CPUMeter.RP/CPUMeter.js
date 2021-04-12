@@ -1,3 +1,7 @@
+// Digispark CPU Meter
+// Copyright: (c) 2021 by nori-dev-akg
+// https://github.com/nori-dev-akg/Digispark-CPU-Meter
+
 const HID = require('node-hid');
 const usbDetect = require('usb-detection');
 

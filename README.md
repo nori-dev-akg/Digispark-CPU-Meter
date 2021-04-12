@@ -18,7 +18,7 @@ RaspberryPi<br>
 -README.md ... this file<br>
 
 ## Circuit diagram
-<image src="./img/circuit.png" width="30%"/> 
+<image src="./img/circuit.png" width="50%"/> 
 
 # Windows
 
